@@ -1,0 +1,26 @@
+{
+  "name": "totem.module.tipi-base-adapter",
+  "homepage": "https://github.com/toolbarthomas/totem.module.tipi-base-adapter",
+  "authors": [
+    "Thomas van der Velde <contact@toolbarthomas.net>"
+  ],
+  "description": "Compatibility package for Totem to enable base Tipi modules",
+  "main": "",
+  "keywords": [
+    "Totem",
+    "Tipi",
+    "Totem-module",
+    "module"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tipi": "^1.1.0"
+  }
+}
