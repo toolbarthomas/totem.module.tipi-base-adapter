@@ -21,6 +21,11 @@
     "tests"
   ],
   "dependencies": {
-    "tipi": "^1.2.0"
+    "tipi.base.columns": "^3.3.1",
+    "tipi.base.combined": "^1.1.9",
+    "tipi.base.element-group": "^3.0.3",
+    "tipi.base.sticky-end": "^2.0.1",
+    "tipi.base.valign": "^1.0.1",
+    "bourbon": "^4.3.4"
   }
 }
