@@ -1,4 +1,4 @@
-@import "../../../node_modules/tipi.base.combined/__core";
+@import "../../../tipi.base.combined/__core";
 @if $tipi-base-adapter-enable-combined {
     @include core_combined;
 }
