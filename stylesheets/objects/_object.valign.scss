@@ -1,4 +1,4 @@
-@import "../../bower_components/tipi.base.valign/__core";
+@import "../../../node_modules/tipi.base.valign/__core";
 @if $tipi-base-adapter-enable-valign {
     @include core_valign;
 }
