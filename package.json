@@ -1,6 +1,6 @@
 {
   "name": "totem.module.tipi-base-adapter",
-  "version": "1.5.2",
+  "version": "1.6.7",
   "description": "Compatibility package for Totem to enable base Tipi modules",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,10 +22,10 @@
   "homepage": "https://github.com/toolbarthomas/totem.module.tipi-base-adapter#readme",
   "dependencies": {
     "bourbon": "^4.3.4",
-    "tipi.base.columns": "^3.3.1",
-    "tipi.base.combined": "^1.1.9",
-    "tipi.base.element-group": "^3.0.3",
-    "tipi.base.sticky-end": "^2.0.1",
-    "tipi.base.valign": "^1.0.1"
+    "tipi.base.columns": "^3.3.3",
+    "tipi.base.combined": "^1.1.12",
+    "tipi.base.element-group": "^3.0.4",
+    "tipi.base.sticky-end": "^2.0.2",
+    "tipi.base.valign": "^1.0.2"
   }
 }
