@@ -1,6 +1,6 @@
 {
   "name": "totem.module.tipi-base-adapter",
-  "version": "1.6.7",
+  "version": "1.6.8",
   "dependencies": {
     "bourbon": {
       "version": "4.3.4",
@@ -23,9 +23,9 @@
       "resolved": "https://registry.npmjs.org/tipi.base.element-group/-/tipi.base.element-group-3.0.5.tgz"
     },
     "tipi.base.sticky-end": {
-      "version": "2.0.2",
-      "from": "tipi.base.sticky-end@>=2.0.2 <3.0.0",
-      "resolved": "https://registry.npmjs.org/tipi.base.sticky-end/-/tipi.base.sticky-end-2.0.2.tgz"
+      "version": "2.0.3",
+      "from": "tipi.base.sticky-end@2.0.3",
+      "resolved": "https://registry.npmjs.org/tipi.base.sticky-end/-/tipi.base.sticky-end-2.0.3.tgz"
     },
     "tipi.base.valign": {
       "version": "1.0.2",
