@@ -1,6 +1,6 @@
 {
   "name": "totem.module.tipi-base-adapter",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "Compatibility package for Totem to enable base Tipi modules",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

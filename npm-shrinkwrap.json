@@ -1,36 +1,53 @@
 {
   "name": "totem.module.tipi-base-adapter",
-  "version": "1.6.8",
+  "version": "1.8.0",
+  "lockfileVersion": 1,
+  "requires": true,
   "dependencies": {
     "bourbon": {
       "version": "4.3.4",
-      "from": "bourbon@>=4.3.4 <5.0.0",
-      "resolved": "https://registry.npmjs.org/bourbon/-/bourbon-4.3.4.tgz"
+      "resolved": "https://registry.npmjs.org/bourbon/-/bourbon-4.3.4.tgz",
+      "integrity": "sha1-TaOAAp6SwMj5dkx3lFGhNLEefMM="
     },
     "tipi.base.columns": {
       "version": "3.3.3",
-      "from": "tipi.base.columns@>=3.3.3 <4.0.0",
-      "resolved": "https://registry.npmjs.org/tipi.base.columns/-/tipi.base.columns-3.3.3.tgz"
+      "resolved": "https://registry.npmjs.org/tipi.base.columns/-/tipi.base.columns-3.3.3.tgz",
+      "integrity": "sha1-VPNZr65aVXwdUwH8+k0mq1GsTus=",
+      "requires": {
+        "bourbon": "4.3.4"
+      }
     },
     "tipi.base.combined": {
       "version": "1.1.12",
-      "from": "tipi.base.combined@>=1.1.12 <2.0.0",
-      "resolved": "https://registry.npmjs.org/tipi.base.combined/-/tipi.base.combined-1.1.12.tgz"
+      "resolved": "https://registry.npmjs.org/tipi.base.combined/-/tipi.base.combined-1.1.12.tgz",
+      "integrity": "sha1-GAGa2CZZTO+B5BrkHlAOYWS4cWE=",
+      "requires": {
+        "bourbon": "4.3.4"
+      }
     },
     "tipi.base.element-group": {
       "version": "3.0.5",
-      "from": "tipi.base.element-group@>=3.0.4 <4.0.0",
-      "resolved": "https://registry.npmjs.org/tipi.base.element-group/-/tipi.base.element-group-3.0.5.tgz"
+      "resolved": "https://registry.npmjs.org/tipi.base.element-group/-/tipi.base.element-group-3.0.5.tgz",
+      "integrity": "sha1-c/mChsEVSvDHgdZnoCrnh1pjxck=",
+      "requires": {
+        "bourbon": "4.3.4"
+      }
     },
     "tipi.base.sticky-end": {
       "version": "2.0.3",
-      "from": "tipi.base.sticky-end@2.0.3",
-      "resolved": "https://registry.npmjs.org/tipi.base.sticky-end/-/tipi.base.sticky-end-2.0.3.tgz"
+      "resolved": "https://registry.npmjs.org/tipi.base.sticky-end/-/tipi.base.sticky-end-2.0.3.tgz",
+      "integrity": "sha1-QT+y/6jCRVTugX0kaMnXC6gIGAA=",
+      "requires": {
+        "bourbon": "4.3.4"
+      }
     },
     "tipi.base.valign": {
       "version": "1.0.2",
-      "from": "tipi.base.valign@>=1.0.2 <2.0.0",
-      "resolved": "https://registry.npmjs.org/tipi.base.valign/-/tipi.base.valign-1.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/tipi.base.valign/-/tipi.base.valign-1.0.2.tgz",
+      "integrity": "sha1-8tAcWaj5dvE2mNp3RCk3kMzlXqY=",
+      "requires": {
+        "bourbon": "4.3.4"
+      }
     }
   }
 }
